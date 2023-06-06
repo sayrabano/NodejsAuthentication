@@ -3,7 +3,7 @@ const mongoose = require('mongoose');
 // mongoose.connect('mongodb://localhost/codeial_development');
 
 // connecting to databse on mongodb cloud
-mongoose.connect('mongodb+srv://sayrabano8888:lZwnVwnXe7OrlRN5@cluster0.ebxvdye.mongodb.net/?retryWrites=true&w=majority',{
+mongoose.connect('mongodb+srv://sayrabano8888:mdOZ2NqcyHBeFGBe@cluster0.zwczm6d.mongodb.net/?retryWrites=true&w=majority',{
     useNewUrlParser:true
 })
 
